@@ -1,4 +1,4 @@
-# Hi there, I'm David Chen! 👋
+# Hi there, I'm David! 👋
 
 ## 👨‍💻 About Me
 I work at Schauinsland-reisen, where I develop travel technology solutions using Laravel and Docker, passionate about building robust and scalable web applications.
