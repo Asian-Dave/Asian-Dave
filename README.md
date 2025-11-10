@@ -8,7 +8,7 @@ I work at Schauinsland-reisen, where I develop travel technology solutions using
 - 💻 Developing projects at **Schauinsland-reisen**
 - 📄 Crafting full-stack applications with Laravel
 
-Check out an [example project here!](https://asian-dave.github.io/Famazon-parody/home)
+Check out an [attempt of using AngularJs!](https://asian-dave.github.io/Famazon-parody/home)
 
 ## 🛠️ Tech Stack
 
